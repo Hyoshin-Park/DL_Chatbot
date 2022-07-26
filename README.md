@@ -16,16 +16,16 @@
 ## 사용할 Library or Tool
 
 1. Python
-  - argparse
-  - logging
+    - argparse
+    - logging
 
-  - numpy
-  - pandas
-  - torch
-  - pytorch_lightning.core.lightning import LightningModule
-  - torch.utils.data import DataLoader, Dataset
-  - transformers.optimization import AdamW, get_cosine_schedule_with_warmup
-  - transformers import PreTrainedTokenizerFast, GPT2LMHeadModel
+    - numpy
+    - pandas
+    - torch
+    - pytorch_lightning.core.lightning import LightningModule
+    - torch.utils.data import DataLoader, Dataset
+    - transformers.optimization import AdamW, get_cosine_schedule_with_warmup
+    - transformers import PreTrainedTokenizerFast, GPT2LMHeadModel
   
 ## 구현 및 시연
 - ppt작성 및 발표 준비
